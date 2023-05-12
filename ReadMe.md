@@ -1,9 +1,5 @@
-Leaked By Dimples#1337
+# Nettion opensource
 
-废物SRC 全是Sk1d 成分不多说
+一款由LoserUnU大神自主缝制的狗屎，已经eclipse ready
 
-附上手机号：15252618880
-实名：宁世鑫小朋友
-小朋友住在广州 小心被收拾哦~
-
-libs全部补全了，修几个bug就能跑起来了
+By AckerRun/ImCzf233
