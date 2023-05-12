@@ -526,7 +526,7 @@ public class Minecraft implements IThreadListener, IPlayerUsage
     private void createDisplay() throws LWJGLException
     {
         Display.setResizable(true);
-        Display.setTitle("精神胜利客户端被破解了！");
+        Display.setTitle("Nettion 2.2 by 宁世鑫#1337");
 
         try
         {
