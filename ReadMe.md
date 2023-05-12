@@ -1,5 +1,7 @@
 # Nettion opensource
 
-一款由LoserUnU大神自主缝制的狗屎，已经eclipse ready
+一款由[LoserUnU](https://github.com/lightfeather233/LoserUnU-Info)大神自主缝制的狗屎，已经eclipse ready
 
-By AckerRun/ImCzf233
+Leaked by cubk
+
+Eclipse ready By AckerRun/ImCzf233
